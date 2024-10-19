@@ -13,5 +13,7 @@ When the Monster's health is zero, you win the game. “START NEW GAME” button
 “GIVE UP”: You can choose to give up and leave the game at any time of the game. By clicking the button, you acknowledge defeat and the Monster happily EATS you
 
 
+![image](https://github.com/user-attachments/assets/d175ec91-8a1f-47ab-9b72-34d51dff7061)
+
 
 This project is an extension of a class exercise given in school as part of a Vue.JS course. I completed the basic functionalities and made some changes to make the game more realistic.
